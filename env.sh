@@ -19,3 +19,6 @@ pip install fairseq
 
 # Uninstall nvidia-cublas-cu11 if there exist some bugs about CUDA version
 # pip uninstall nvidia-cublas-cu11
+
+# Addition by Wesley Bian October 2024
+pip install json5 tgt
